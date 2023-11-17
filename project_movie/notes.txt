@@ -1,0 +1,19 @@
+main
+log in
+recommendation
+
+
+User Log in: first ask the user whether he needs to create an account or needs to log in to an existing account
+
+To create aacount:ask for username , password and genres the wish to watch
+
+Log in to existing account: show the recommendations
+
+TABLES:
+1.for user (username , password , all genres[with points])
+2.for movies (moviename, 3 columns for tags)
+
+
+genres used
+action, comedy , drama , sci_fi , fantasy , horror , thriller , mystery , romance , adventure , animation , family , musical , historical , war , western , crime , documentary , sports , biography
+
